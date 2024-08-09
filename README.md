@@ -1,4 +1,4 @@
-# OpenAI Text-to-Speech Project
+# Azure Congnitive Services Text-to-Speech Project
 
 This project demonstrates how to use Azure Cognitive Services to convert text to speech using Node.js.
 
